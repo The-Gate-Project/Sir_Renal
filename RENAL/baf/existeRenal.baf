@@ -1,0 +1,7 @@
+IF
+	Global("renalexiste","ar0903",0)
+THEN
+	RESPONSE #100
+		SetGlobal("renalexiste","ar0903",1)
+		CreateCreature("esrenal",[1062.417],3)
+END

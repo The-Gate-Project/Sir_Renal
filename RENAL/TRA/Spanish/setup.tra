@@ -1,0 +1,252 @@
+@0    = ~Renal~
+@1    = ~Anillo~
+@2    = ~Anillo de sabiduría~
+@3    = ~Un anillo es una pequeña banda de metal precioso que se utiliza como joya. Algunos anillos poco comunes han tenido encantamientos que confieren varias propiedades mágicas. Estos anillos son muy buscados, especialmente por aquéllos que se dedican a las aventuras~
+@4    = ~De origen desconocido, concede el don de la sabiduría a su portador. Alguien dijo alguna vez que hasta el más sabio de los hombres le han ayudado a ser sabio.
+
+CARACTERÍSTICAS:
+
++1 a la Sabiduría mientras se lleve equipado~
+@5    = ~Anillo~
+@6    = ~Anillo de santidad mayor~
+@7    = ~Anillo de santidad: 'Anillo honorario de Sune'
+Esta clase de anillos se les entregaba a aquellos fieles sacerdotes de Sune que demostraban increíbles actos de integridad y bondad. Este anillo ha sido mejorado para aumentar su poder.
+
+CARACTERÍSTICAS:
+
+Conjuros: Proporciona dos conjuros extra de todos los niveles entre el primero y el cuarto.
+
+Sólo permitido a:
+ Clérigo
+ Druida~
+@8    = ~Casco~
+@9    = ~Yelmo de Sagrado~
+@10   = ~Esta clase de casco de rostro descubierto, hecho con cuero reforzado o con metal, cubre casi toda la cabeza, salvo la cara y el cuello. Estos cascos suelen incluir una protección para la nariz.
+
+CARACTERÍSTICAS:
+
+Bonificador de clase de armadura: Ninguno
+Especial: Protege contra golpes críticos
+Peso: 2
+No permitido a:
+ Bardo
+ Ladrón
+ Mago~
+@11   = ~Traído desde un plano celestial: este legendario yelmo es una reliquia muy apreciada por los paladines y clérigos. Se dice que sólo los hombres santos y de buen corazón pueden usar este yelmo.
+
+CARACTERÍSTICAS:
+
+Clase de armadura: Bonificador +1
+Sabiduría: Bonificador +1
+Resistencia Mágica: +5%
+Especial: Protege contra golpes críticos
+Peso: 2
+Sólo permitido a:
+ Paladín y Clérigo de alineamiento bueno~
+@12   = ~Arnés completo~
+@13   = ~Armadura Sagrada~
+@14   = ~La armadura blindada completa es la mejor armadura que puede comprar un guerrero, tanto en aspecto como en protección. Las chapas entrecruzadas, ajustadas perfectamente, están especialmente orientadas para desviar flechas y golpes y todo el traje está cuidadosamente adornado con ricos detalles grabados y repujados.  
+
+CARACTERÍSTICAS:
+
+Clase de armadura: 1
+Peso: 70
+No permitido a:
+ Bardo
+ Druida
+ Ladrón
+ Mago~
+@15   = ~Traída desde un plano celestial: esta legendaria armadura es una reliquia muy apreciada por los paladines y clérigos. Se dice que sólo los hombres santos y de buen corazón pueden usar esta armadura.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  Lanza Invocar el poder sagrado instantáneo una vez al día.
+  Carisma: Bonificador +2
+
+Clase de armadura: 0
+Peso: 35
+Sólo permitido a:
+ Paladín y Clérigo de alineamiento bueno~
+@16   = ~Cota de mallas~
+@17   = ~Cota de malla +1 de protección contra el mal~
+@18   = ~La cota de malla está formada por anillos de metal entrelazados. Siempre está sobre una capa de tela acolchada o de cuero suave para evitar los roces y disminuir el impacto de los golpes.  
+
+CARACTERÍSTICAS:
+
+Clase de armadura: 5
+Peso: 40
+No permitido a:
+ Druida 
+ Ladrón
+ Mago~
+@19   = ~Se dice que Lord Nerior fue siempre un hombre paranoico, que siempre tuvo unas extrañas pesadillas relacionadas con demonios. Tal fue su obsesión que se mandó fabricar esta armadura para usarla para dormir.
+Todos dicen que estaba loco pero lo cierto es que desde que adquirió esta armadura fabricada por los monjes durmió mucho mejor.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  Protección permanente contra el mal
+
+Clase de armadura: 4
+Peso: 10
+No permitido a:
+ Druida
+ Ladrón
+ Mago~
+@20   = ~Maza~
+@21   = ~Maza de fuego celestial~
+@22   = ~La maza deriva directamente del garrote común y se compone simplemente de un asta de madera con una punta de piedra o hierro montada en el extremo. El diseño de la punta varía: unas tienen púas, otras rebordes y otras tienen piezas piramidales.
+
+CARACTERÍSTICAS:
+
+Daño: 1D6 + 1
+Tipo de daño: Contundente
+Peso: 8
+Factor de velocidad: 7
+Talento marcial: Armas sin punta
+No permitido a:
+ Druida
+ Ladrón
+ Mago~
+@23   = ~Esta maza fue entregada por los mismos dioses a un chamán bárbaro en la lejana tierra del norte de Icewind dale. Gracias a los poderes del fuego que liberaba esta poderosa maza pudo liberar a su pueblo de un grupo de gigantes del hielo que pretendía destruirlo.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  Lanza golpe de fuego una vez al día.
+  
+Daño: 1D6 + 2 + 4 de fuego
+GAC0: Bonificador +1
+Tipo de daño: Contundente
+Peso: 8
+Factor de velocidad: 6
+Talento marcial: Armas sin punta
+No permitido a:
+ Druida
+ Ladrón
+ Mago~
+@24   = ~Espada bastarda~
+@25   = ~Justicia Espada bastarda +1~
+@26   = ~La espada bastarda, conocida también como espada de puño y medio, se llama así porque está a medio camino entre la espada de dos puños y la espada grande. La espada bastarda tiene una hoja de doble filo y una empuñadura larga, que se puede adaptar a las dos manos si se prefiere. La longitud total de la espada bastarda oscila entre 120 y 150 centímetros.
+
+CARACTERÍSTICAS:
+
+Daño: 2D4 
+Tipo de daño: cortante
+Peso: 10
+Factor de velocidad: 8
+Talento marcial: Espada grande
+Tipo: a una mano
+No permitido a:
+ Clérigo
+ Druida
+ Ladrón
+ Mago~
+@27   = ~Espada de Sir Deron. Fue un valiente caballero que combatió las fuerzas del mal en todos los rincones de Faerûn. Se decía que su valor no tenía rival y jamás retrocedió ante ningún adversario. Quizás su valentía fue lo que le traicionó encontrando la muerte cuando se enfrentó a un terrible dragón.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  Inmunidad a Miedo
+
+Daño: 2D4 + 1, +4 adicional a los oponentes caóticos malignos
+GAC0: Bonificador +1
+Tipo de daño: Cortante
+Peso: 9
+Factor de velocidad: 7
+Talento marcial: Espada grande
+No permitido a:
+ Clérigo
+ Druida
+ Ladrón
+ Mago~
+@28   = ~Espada de dos puños~
+@29   = ~La espada del Caballero Errante~
+@30   = ~La espada de dos puños es una variación de la espada larga. Los armeros buscan siempre la forma de mejorar las armas que ya existen y para mejorar la espada larga, alargaron la hoja. Finalmente, hubo que extender la empuñadura, por lo que se hizo necesario utilizar ambas manos. La función principal de la espada de dos puños es partir en dos a los caballeros montados y dispersar las formaciones en pica.
+
+CARACTERÍSTICAS:
+
+Daño: 1D10
+Tipo de daño: Cortante
+Peso: 15
+Factor de velocidad: 10
+Talento marcial: Espada larga
+No permitido a:
+ Clérigo
+ Druida
+ Ladrón
+ Mago~
+@31   = ~Las espada legendaria del Caballero Errante es una de las espada más poderosas de los Reinos. Se dice que anduvo perdida durante siglos y hace poco fue descubierta por miembros de la orden del Muy Radiante Corazón y llevada a la orden esperando a alguien digno de empuñarla en defensa del bien y la justicia.
+
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  Inmunidad a Miedo
+  30 % de resistencia al fuego y al acido
+  
+GAC0: Bonificador +2 (+ 4 contra dragones y demonios)
+Daño: 1D10 + 2
+Tipo de daño: Cortante
+Peso: 10
+Factor de velocidad: 6
+Talento marcial: Mandoble
+Tipo: a dos manos
+Sólo permitido a:
+ Paladín~
+@32   = ~Armadura de placas~
+@33   = ~Armadura azul de las montañas de Nieblacristal +3~
+@34   = ~La armadura de placas es una combinación de armadura de cota con placas metálicas que cubren las áreas vitales como el pecho, el abdomen y la entrepierna. Semejante en su construcción a la armadura de placas de bronce, la armadura de placas verdadera está compuesta de cota y cuero. 
+
+CARACTERÍSTICAS:
+
+Clase de armadura: 3
+Peso: 50
+No permitido a:
+ Bardo 
+ Druida
+ Ladrón
+ Mago~
+@35   = ~Cuando se encuentra por primera vez, esta armadura a menudo aparece del tamaño apropiado para enanos. Desde cierta distancia, parece estar hecha con la piel de un dragón azul, pero en realidad, es una cota de escamas de gran calidad que ha sido esmaltada para que parezca las escamas de un dragón azul.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  Resistencia a la electricidad 15%
+
+Clase de armadura: 0
+Peso: 50
+No permitido a:
+ Bardo 
+ Druida
+ Ladrón
+ Mago~
+@36   = ~Escudo mediano~
+@37   = ~Escudo Comehechizos~
+@38   = ~El escudo mediano se lleva del mismo modo que el pequeño, aunque su peso impide que se puedan llevar otras armas además del escudo. Suele estar hecho de metal, tiene un diámetro de 90 a 120 centímetros y puede tener diferentes formas, desde redondos a cuadrados, pasando por la forma de las alas extendidas de un dragón. Uno de los escudos medievales más habituales tiene la forma de un triángulo con uno de sus ángulos hacia abajo. 
+
+CARACTERÍSTICAS:
+
+Bonificador de clase de armadura: 1
+Peso: 7
+No permitido a:
+ Bardo 
+ Druida
+ Ladrón
+ Mago~
+@39   = ~Este poderoso escudo fue fabricado con el fin de que los paladines cazadores de brujos pudieran protegerse de sus hechizos. Este escudo fabricado de un extraño metal proporciona una gran resistencia a la magia.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+  +25% de resistencia mágica
+  
+Bonificador a la Clase de Armadura: 3
+Peso: 5
+No permitido a:
+ Bardo 
+ Druida
+ Ladrón
+ Mago~
+@40   = ~Sir Renal~
