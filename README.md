@@ -12,7 +12,7 @@ For Baldur's Gate II,  Baldur's Gate II: EE, Baldur's Gate Trilogy (BGT) and the
 ## Description:
 ---------------
 
-A mod Clan REO
+A mod from Clan REO
 
 Sir Renal is in charge of negotiating the items of the Order of the Most Radiant Heart and can be found within the order HQ (area = ar0903 X = 1224 Y = 477).
 
@@ -35,7 +35,7 @@ Medium Shield +2: Magebane
 --------
 
 Extract archive contents into your game directory
-Run Setup-WarslingSniperKit.exe
+Run setup-Renal.exe
 Follow the prompt
 
 
