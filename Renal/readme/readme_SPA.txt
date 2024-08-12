@@ -13,7 +13,7 @@ Es compatible con cualquier mod. Menos con las conversiones totales como Epic En
 
 Sobre el Mod:
 
-Sir Renal es el encargado de negociar lo objetos de la orden del Muy Radiante Corazón se encuentra en el interior de la orden (area=ar0903 x=1062 Y=417).
+Sir Renal es el encargado de negociar lo objetos de la orden del Muy Radiante Corazón se encuentra en el interior de la orden (area=ar0903 x=1224 Y=477).
 
 Renal ademas de lo típico de los templos vende las siguientes mercancias nuevas:
 

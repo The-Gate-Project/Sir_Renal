@@ -12,7 +12,7 @@ It is compatible with any mod except total conversions like Epic Endeavors.
 
 About the Mod:
 
-Sir Renal is in charge of negotiating the items of the Order of the Most Radiant Heart and can be found within the order HQ (area = ar0903 X = 1062 Y = 417).
+Sir Renal is in charge of negotiating the items of the Order of the Most Radiant Heart and can be found within the order HQ (area = ar0903 X = 1224 Y = 477).
 
 Renal, besides offering services typical of temples, sells the following new goods:
 

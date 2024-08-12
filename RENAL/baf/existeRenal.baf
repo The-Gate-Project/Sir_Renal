@@ -1,7 +1,7 @@
 IF
-	Global("renalexiste","ar0903",0)
+	Global("esrenalexiste","MYAREA",0)
 THEN
 	RESPONSE #100
-		SetGlobal("renalexiste","ar0903",1)
-		CreateCreature("esrenal",[1062.417],3)
+		SetGlobal("esrenalexiste","MYAREA",1)
+		CreateCreature("esrenal",[1224.477],3)
 END
