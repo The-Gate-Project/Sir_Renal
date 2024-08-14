@@ -1,0 +1,436 @@
+@9001 	= ~[Uu]tilisable\([ %tab%]+[Ss]eulement\|[ %tab%]+[Uu]niquement\)?[ %tab%]+[Pp]ar[ %tab%]*:~
+@9002	 = ~\([Nn]on[ %tab%]+\|[Ii]n\)[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
+
+@0    = ~Sire Renal~
+@1    = ~Anneau~
+@2    = ~Anneau de Sagesse~
+@3    = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+PARAMÈTRES :
+
+Poids : 0~
+@4    = ~D'origine inconnue, cet anneau confère à son porteur le don d'une sagesse accrue. Quelqu'un a dit un jour que même le plus sage des hommes pouvait acquerir une sagesse plus grande encore.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Sagesse : +1
+
+Poids : 0~
+@5    = ~Anneau~
+@6    = ~Anneau des grand saints~
+@7    = ~Anneau de plus grande sainteté : « L'honneur de Sunie » 
+
+Cette catégorie d'anneaux était fréquemment offert aux prêtres et prêtresses dévoués à Sunie qui faisaient preuve d'une intégrité et d'une gentillesse hors du commun. Celui-ci a été enchanté pour augmenter son pouvoir.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Permet de mémoriser 2 sorts divins/druidiques supplémentaires de 1er, 2ème, 3ème et 4ème niveau
+
+Poids : 0
+
+Utilisable par :
+ Clerc
+ Druide~
+@8    = ~Casque~
+@9    = ~Heaume sacré~
+@10   = ~Ce type de casque d'apparat, fait de cuir ou de métal renforcé, couvre le visage et le crâne. Les trous pour les yeux et le nez ne sont pas de trop. Il s'agit d'un modèle classique utilisé par les soldats amniens.
+
+PARAMÈTRES :
+
+Spécial : Protèges contre les coups critiques
+
+Poids : 2
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur~
+@11   = ~Rapportée d'un plan céleste, cette relique légendaire est très convoitée par les paladins et les prêtres. On raconte que seuls les saints au cœur pur peuvent utiliser ce casque.
+
+Capacités d'équipement : 
+- Protection contre les coups critiques
+- Classe d'armure : +1
+- Sagesse : +1
+- Résistance à la magie : +5 %
+
+Utilisable par :
+ Paladin
+ Clerc d'alignement bon~
+@12   = ~Armure de plates complète~
+@13   = ~Armure de plates sacrée~
+@14   = ~L'armure de plates complète est la meilleure armure qu'un combattant puisse acquérir, tant en termes d'apparence que de protection. Les plaques, parfaitement ajustées et imbriquées les unes dans les autres, sont courbées de manière à dévier les coups et les projectiles. Les armures de plates complètes sont généralement décorées de riches gravures et de détails en relief. Avec ses enchantements magiques, c'est l'armure idéale pour un guerrier. 
+
+PARAMÈTRES :
+
+Classe d'armure : 1
+
+Nécessite : 15 en Force
+
+Poids : 70
+
+Inutilisable par :
+  Barde
+  Druide
+  Mage
+  Voleur~
+@15   = ~Rapportée d'un plan céleste, cette relique légendaire est très convoitée par les paladins et les prêtres. On raconte que seuls les saints au cœur pur peuvent utiliser cette armure.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Charisme : +2
+- Empêche l'utilisation du camouflage dans l'ombre
+
+Capacité de charge (1 fois par jour) :
+- Puiser dans la puissance divine (instantané)
+
+Classe d'armure : 0 (-4 contre les armes tranchantes, -3 contre les armes perforantes et les projectiles)
+
+Nécessite :
+- 15 en Force
+
+Poids : 35
+
+Utilisable par :
+ Paladin
+ Clerc d'alignement bon~
+@16   = ~Cotte de mailles~
+@17   = ~Cotte de mailles de protection contre le mal~
+@18   = ~La cotte de mailles est constituée d'anneaux métalliques imbriqués les uns dans les autres. Elle est toujours portée par-dessus une couche de tissu matelassé ou de cuir souple pour empêcher le frottement et réduire l'impact des chocs. 
+
+PARAMÈTRES :
+
+Classe d'armure : 5
+Poids : 40
+Nécessite : 8  en Force
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur~
+@19   = ~On raconte que Lord Nerior était un homme des plus paranoïaques et avait l'habitude de faire d'étranges cauchemars impliquant des démons. Son obsession était telle qu'il s'est mis à fabriquer cette armure afin de la porter dans son sommeil. Nombreux sont ceux qui le pensent fou, mais la vérité c'est que depuis qu'il revêt cette armure, il dort beaucoup mieux.
+
+PARAMÈTRES :
+
+Capacités d'équipement : 
+- Immunité aux attaques et aux sorts des démons invoqués (Protection contre le mal)
+
+Classe d'armure : 4 (2 contre les armes tranchantes, 6 contre les armes contondantes)
+
+Nécessite :
+- 8 en Force
+
+Poids : 10
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur~
+@20   = ~Masse d'armes~
+@21   = ~Masse de feu divin~
+@22   = ~La masse d'armes descend directement du simple gourdin, elle n'est rien de plus qu'une solide hampe de bois avec une tête en pierre, en fer ou encore en acier fixée à l'extrémité. La longueur de l'arme varie, mais la plupart d'entre elles mesurent entre 60 centimètres et 90 centimètres de long. La forme de la tête peut varier considérablement, ronde, pyramidale ou piriforme, certaines sont lisses, d'autres hérissées de pointes, et d'autres encore sont à rebords. Certaines possèdent même une pointe surmontant la tête afin de frapper d'estoc, cependant leur conception est avant tout pour porter des coups de taille dévastateurs contre les armures. Les masses d'armes, simples à fabriquer, bon marché et d'un maniement aisé, sont des armes relativement courantes, notamment chez les membres du clergé.
+
+PARAMÈTRES :
+
+Dégâts : 1d6 +1 (Contondant)
+Poids : 8
+Facteur de vitesse : 7
+Type de compétence : Masse d'armes
+Type :  Arme à 1 main
+Nécessite : 10  en Force
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur~
+@23   = ~Cette masse d'armes a été offerte par les dieux eux-mêmes à un chaman barbare d'une lointaine contrée septentrionale, Icewind Dale. Grâce aux pouvoirs enflammés que cette puissante masse déchaîne sur ses ennemis, il a pu affranchir son peuple d'un clan de géants des glaces qui cherchaient à détruire leur terre enneigée.
+
+PARAMÈTRES : 
+
+Capacité de charge (1 fois par jour) : 
+- Inflige 6d4 points de dégâts de feu à la cible (Colonne de feu)
+- 1 % de chances d'infliger 6d4 points de dégâts de feu à la cible
+
+Capacités de combat : 
+- Inflige 4 points de dégâts de feu magique à la cible
+
+TAC0 : +1
+Dégâts : 1d6 +2 (Contondant)
+Facteur de vitesse : 6
+Type de compétence : Masse d'armes
+Type : Arme à 1 main
+
+Nécessite : 
+- 10 en Force
+
+Poids : 8
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur~
+@24   = ~Épée bâtarde~
+@25   = ~Épée bâtarde de la Justice~
+@26   = ~L'épée bâtarde, également connue sous le nom d'épée à une main et demie ou encore épée de passot, tire son nom de son aspect intermédiaire entre l'épée à deux mains et l'épée longue. Elle possède une lame à double tranchant effilée à l'extrémité, une garde droite servant à protéger les mains de son porteur et une longue poignée, qui peut éventuellement accueillir les deux mains, ainsi qu'un pommeau ayant pour rôle de contrepoids à l'autre extrémité. La longueur de l'épée bâtarde varie entre 1,20 mètre et 1,50 mètre. Cette arme est faite pour frapper de taille, bien que sa pointe puisse également frapper d'estoc.  
+
+PARAMÈTRES :
+
+Dégâts : 2D4 (Tranchant)
+Poids : 10
+Facteur de vitesse : 8
+Type de compétence : Épée bâtarde
+Type : Arme à 1 main
+Nécessite : 11  en Force
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur
+  Clerc~
+@27   = ~L'Épée de Sire Deron
+
+Sire Deron était un valeureux chevalier qui a affronté des forces maléfiques dans tous les coins de Féérune. Persuadé que ses adversaires n'avaient pas d'honneur, il n'a jamais fléchi devant aucun d'entre eux... C'est peut-être son courage qui a précipité sa perte lorsque il fut terrassé par un terrible dragon.
+
+PARAMÈTRES :
+
+Capacités d'équipement : 
+- Dégâts : +4 contre les créatures chaotiques mauvaises
+- Immunité à la peur
+
+TAC0 : +1
+Dégâts : 2d4 +1 (Tranchant)
+Facteur de vitesse : 7
+Type de compétence : Épée bâtarde
+Type : Arme à 1 main
+
+Nécessite :
+- 11 en Force
+
+Poids : 9
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur
+  Clerc~
+@28   = ~Épée à deux mains~
+@29   = ~La vertu de sire Errant~
+@30   = ~L'épée à deux mains, également connue sous les noms de claymore, espadon, flamberge ou encore brand d'arçon, est un dérivé de l'épée longue. Les forgerons ont toujours cherché à améliorer les armes de leur temps. Dans le but d'améliorer l'épée longue, ils ont d'abord allongé la lame. Après la lame, c'est la poignée qui s'est vue allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier ces épées. La longueur totale de l'épée à deux mains varie considérablement entre 1,30 mètre et 2 mètres. L'épée à deux mains est dotée d'une garde servant à protéger les mains de son porteur, d'une poignée pour son maniement, ainsi que d'un pommeau faisant office de contrepoids. Redoutable pour effectuer de grands mouvements de taille, elle est cependant peu pratique pour frapper d'estoc. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+
+Cette épée à deux mains magique est encore plus apte à remplir ses fonctions, de façon à rappeler la puissance de l'union entre le métal et la magie.
+
+PARAMÈTRES :
+
+Dégâts : 1D10 +2 (Tranchant)
+TAC0 : Bonus de 2
+Poids : 10
+Facteur de vitesse : 8
+Type de compétence : Épée à deux mains
+Type : Arme à 2 mains
+Nécessite : 14 en Force
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur
+  Clerc~
+@31   = ~L'épée légendaire de sire Errant serait l'une des plus puissantes des royaumes. Elle fut perdue pendant des siècles avant d'être découverte par des membres de l'Ordre du Cœur Radieux et conservée en son sein en attendant qu'une personne digne de la manier pour défendre le droit et la justice se présente.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Dégâts : +4 contre les démons et les dragons
+- Immunité à la peur
+- Résistance au feu : +30 %
+- Résistance à l'acide : +30 %
+
+TAC0 : +2
+Dégâts : 1d10 +2 (Tranchant)
+Facteur de vitesse : 6
+Type de compétence : Épée à deux mains
+Type : Arme à 2 mains
+
+Nécessite : 
+- 14 en Force
+
+Poids : 10
+
+Utilisable par :
+ Paladin~
+@32   = ~Armure de plates~
+@33   = ~Armure d'écailles de dragon factices : « La montagne bleue » ~
+@34   = ~L'armure de plates est une combinaison de cotte de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+PARAMÈTRES :
+
+Classe d'armure : 3
+Poids : 50
+Nécessite : 12 en Force
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur
+  Barde~
+@35   = ~À première vue, cette armure semble être fabriquée pour les nains. De loin, elle semble faite d'écailles de dragon bleu, mais en réalité, les plaques de haute qualité ont été travaillées et émaillées pour ressembler aux écailles d'un dragon bleu.
+
+PARAMÈTRES :
+
+Capacités d'équipement : 
+- Résistance à l'électricité : +15 %
+
+Classe d'armure : 0 (-3 contre les armes tranchantes)
+
+Nécessite : 
+- 12 en Force
+
+Poids : 27
+
+Inutilisable par :
+  Barde
+  Druide
+  Mage
+  Voleur~
+@36   = ~Écu~
+@37   = ~Écu des tueurs de mage~
+@38   = ~L'écu, tout simplement connu sous le nom de bouclier, se porte de la même manière qu'une rondache. Cependant, contrairement à cette dernière, son poids et sa taille empêchent d'utiliser le bras qui le porte pour tout autre chose que de le maintenir fermement en place. Les boucliers sont généralement fabriqués en métal ou en bois, ils mesurent entre 90 centimètres et 1,20 mètre de diamètre et peuvent avoir n'importe quelle forme, de ronde à carrée, en passant par des ailes de dragon déployées. Le bouclier médiéval typique, l'écu, ressemble à une sorte de triangle dont l'un des angles pointerait vers le bas, avec une forme ogivale pour sa partie inférieure.
+
+PARAMÈTRES :
+
+Classe d'armure : Bonus de 1
+Poids : 7
+Nécessite : 12 en Force
+
+Inutilisable par :
+  Druide
+  Mage
+  Voleur
+  Barde~
+@39   = ~Ce puissant bouclier a été conçu pour protéger les champions tueurs de magiciens contre les sorts de leurs ennemis jurés. Il est fait d'un métal étrange qui offre une grande résistance à la magie.
+
+PARAMÈTRES : 
+
+Capacités d'équipement : 
+- Classe d'armure : Bonus de 3
+- Résistance à la magie : +25 %
+
+Nécessite : 
+- 12 en Force
+
+Poids : 5
+
+Inutilisable par :
+  Barde
+  Druide
+  Mage
+  Voleur~
+@40   = ~Sir Renal~
+
+
+
+/* =============== *
+ *  WeiDU prompts  *
+ * =============== */
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "
+
+@-1063= "INSTALLATION ABANDONNEE"
+@-1064= "Abandon de l'installation de ["
+@-1065= "], retour a l'etat anterieur"
+
+
+
+
+

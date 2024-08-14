@@ -57,6 +57,9 @@ LANGUAGE ~Italian (by Ilot)~ ~italian~
 
 LANGUAGE ~Russian (by Silent)~ ~russian~
 		 ~renal/languages/russian/setup.tra~
+
+LANGUAGE ~French~ ~french~
+		 ~renal/languages/french/setup.tra~
 		 
 BEGIN @0
 DESIGNATED 0
@@ -99,6 +102,7 @@ COPY ~Renal/ITEM/ESLIRIN3.ITM~ ~override\ESLIRIN3.itm~
 	SAY NAME2 @6
 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_undesc_to_update = "@3" END
 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@7" END
+  WRITE_LONG 0x34 20000 // Store price
 	// SAY UNIDENTIFIED_DESC @3
 	// SAY DESC @7
 

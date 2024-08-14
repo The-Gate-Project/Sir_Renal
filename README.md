@@ -51,6 +51,8 @@ v2.6
 - Readme.MD
 - Metadata / Label   
 - InfinityAutoPackager  
+- Store price for ESLIRIN3.itm to be more in line with other items.
+- French translation
 
 v2.5
 - Añadida traducción al ruso por Silent
