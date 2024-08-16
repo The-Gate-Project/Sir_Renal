@@ -1,6 +1,6 @@
 # Sir Renal
 
-![Language](https://img.shields.io/static/v1?label=language&message=castellano%20%7C%20english%20%7C%20italian%20%7C%20russian%20%7C%20&color=informational)
+![Language](https://img.shields.io/static/v1?label=language&message=castellano%20%7C%20english%20%7C%20italian%20%7C%20russian%20%7C%20french%20%7C%20&color=informational)
 
 **Autor** : **Eslizon**
 
@@ -18,16 +18,16 @@ Sir Renal is in charge of negotiating the items of the Order of the Most Radiant
 
 Renal, besides offering services typical of temples, sells the following new goods:
 
-Ring of Wisdom
-Ring of Greater Holiness
-Sacred Helm
-Sacred Plate Mail
-Chain Mail +1: Protected against Evil
-Mace of the Celestial Fire
-Bastard Sword +1: Justice
-Sir Errant's Virtue
-False Dragonscale Armor +3: Blue Mountain
-Medium Shield +2: Magebane
+- Ring of Wisdom
+- Ring of Greater Holiness
+- Sacred Helm
+- Sacred Plate Mail
+- Chain Mail +1: Protected against Evil
+- Mace of the Celestial Fire
+- Bastard Sword +1: Justice
+- Sir Errant's Virtue
+- False Dragonscale Armor +3: Blue Mountain
+- Medium Shield +2: Magebane
 
 
 
